@@ -1,4 +1,4 @@
-# Git Cheat Sheet
+# Git Cheat Sheet - By sarrah.codes
 
 
 ## Basic Configuration
