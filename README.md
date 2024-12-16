@@ -1,6 +1,5 @@
 # Git Cheat Sheet
 
-Type: TP
 
 ## Basic Configuration
 
